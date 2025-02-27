@@ -448,3 +448,27 @@ const data = [
         }
     }
 ]
+
+/**
+ * 1. write a function that takes a conference as an argument and will filter through the objects and return all teams in the conference
+ * 
+ *  func(conf) => [ teams ]
+ * 
+ */
+
+/**
+ * 2. write a function that takes a state as an argument and will filter through the objects and return all teams in that state
+ */
+
+/**
+ * 3. write a function that will map through the data and return an array of all teams by location and team. ex ['arizona cardinals', 'atlanta falcons', etc]
+ */
+
+/**
+ * 4. write a function that takes a conference and division as an argument and will filter through the data and return all teams from that conference and division *hint each one should have four teams*
+ */
+
+/**
+ * 5. write a function that will sort through the teams and place them in 
+ * either one of two arrays: hasWonASuperBowl or hasNotWonASuperBowl
+ */
