@@ -11,7 +11,8 @@ const data = [
         notablePlayers: {
             past: 'aeneas williams',
             present: 'kyler murray'
-        }
+        },
+        toggle: false
     },
     {
         id: 2,
@@ -25,7 +26,8 @@ const data = [
         notablePlayers: {
             past: 'michael vick',
             present: 'kirk cousins'
-        }
+        },
+        toggle: false
     },
     {
         id: 3,
@@ -39,7 +41,8 @@ const data = [
         notablePlayers: {
             past: 'ray lewis',
             present: 'lamar jackson'
-        }
+        },
+        toggle: false
     },
     {
         id: 4,
@@ -53,7 +56,8 @@ const data = [
         notablePlayers: {
             past: 'bruce smith',
             present: 'josh allen'
-        }
+        },
+        toggle: false
     },
     {
         id: 5,
@@ -67,7 +71,8 @@ const data = [
         notablePlayers: {
             past: 'steve smith',
             present: 'bryce young'
-        }
+        },
+        toggle: false
     },
     {
         id: 6,
@@ -81,7 +86,8 @@ const data = [
         notablePlayers: {
             past: 'walter payton',
             present: 'caleb williams'
-        }
+        },
+        toggle: false
     },
     {
         id: 7,
@@ -95,7 +101,8 @@ const data = [
         notablePlayers: {
             past: 'anthony munoz',
             present: 'joe burrow'
-        }
+        },
+        toggle: false
     },
     {
         id: 8,
@@ -109,7 +116,8 @@ const data = [
         notablePlayers: {
             past: 'jim brown',
             present: 'myles garrett'
-        }
+        },
+        toggle: false
     },
     {
         id: 9,
@@ -123,7 +131,8 @@ const data = [
         notablePlayers: {
             past: 'emmitt smith',
             present: 'dak prescott'
-        }
+        },
+        toggle: false
     },
     {
         id: 10,
@@ -137,7 +146,8 @@ const data = [
         notablePlayers: {
             past: 'john elway',
             present: 'bo nix'
-        }
+        },
+        toggle: false
     },
     {
         id: 11,
@@ -151,7 +161,8 @@ const data = [
         notablePlayers: {
             past: 'barry sanders',
             present: 'amon-ra st. brown'
-        }
+        },
+        toggle: false
     },
     {
         id: 12,
@@ -165,7 +176,8 @@ const data = [
         notablePlayers: {
             past: 'reggie white',
             present: 'jordan love'
-        }
+        },
+        toggle: false
     },
     {
         id: 13,
@@ -179,7 +191,8 @@ const data = [
         notablePlayers: {
             past: 'jj watt',
             present: 'cj stroud'
-        }
+        },
+        toggle: false
     },
     {
         id: 14,
@@ -193,7 +206,8 @@ const data = [
         notablePlayers: {
             past: 'peyton manning',
             present: 'johnathan taylor'
-        }
+        },
+        toggle: false
     },
     {
         id: 15,
@@ -207,7 +221,8 @@ const data = [
         notablePlayers: {
             past: 'maurice jones-drew',
             present: 'trevor lawrence'
-        }
+        },
+        toggle: false
     },
     {
         id: 16,
@@ -221,7 +236,8 @@ const data = [
         notablePlayers: {
             past: 'priest holmes',
             present: 'patrick mahomes'
-        }
+        },
+        toggle: false
     },
     {
         id: 17,
@@ -235,7 +251,8 @@ const data = [
         notablePlayers: {
             past: 'marcus allen',
             present: 'brock bowers'
-        }
+        },
+        toggle: false
     },
     {
         id: 18,
@@ -249,7 +266,8 @@ const data = [
         notablePlayers: {
             past: 'junior seau',
             present: 'justin herbert'
-        }
+        },
+        toggle: false
     },
     {
         id: 19,
@@ -263,7 +281,8 @@ const data = [
         notablePlayers: {
             past: 'jackie slater',
             present: 'matthew stafford'
-        }
+        },
+        toggle: false
     },
     {
         id: 20,
@@ -277,7 +296,8 @@ const data = [
         notablePlayers: {
             past: 'dan marino',
             present: 'tyreek hill'
-        }
+        },
+        toggle: false
     },
     {
         id: 21,
@@ -291,7 +311,8 @@ const data = [
         notablePlayers: {
             past: 'randy moss',
             present: 'justin jefferson'
-        }
+        },
+        toggle: false
     },
     {
         id: 22,
@@ -305,7 +326,8 @@ const data = [
         notablePlayers: {
             past: 'tom brady',
             present: 'drake maye'
-        }
+        },
+        toggle: false
     },
     {
         id: 23,
@@ -319,7 +341,8 @@ const data = [
         notablePlayers: {
             past: 'drew brees',
             present: 'demario davis'
-        }
+        },
+        toggle: false
     },
     {
         id: 24,
@@ -333,7 +356,8 @@ const data = [
         notablePlayers: {
             past: 'lawrence taylor',
             present: 'malik nabors'
-        }
+        },
+        toggle: false
     },
     {
         id: 25,
@@ -347,7 +371,8 @@ const data = [
         notablePlayers: {
             past: 'joe namath',
             present: 'quinnen williams'
-        }
+        },
+        toggle: false
     },
     {
         id: 26,
@@ -361,7 +386,8 @@ const data = [
         notablePlayers: {
             past: 'randall cunningham',
             present: 'jalen hurts'
-        }
+        },
+        toggle: false
     },
     {
         id: 27,
@@ -375,7 +401,8 @@ const data = [
         notablePlayers: {
             past: 'joe greene',
             present: 'russell wilson'
-        }
+        },
+        toggle: false
     },
     {
         id: 28,
@@ -389,7 +416,8 @@ const data = [
         notablePlayers: {
             past: 'jerry rice',
             present: 'christian mccaffery'
-        }
+        },
+        toggle: false
     },
     {
         id: 29,
@@ -403,7 +431,8 @@ const data = [
         notablePlayers: {
             past: 'russell wilson',
             present: 'dk metcalf'
-        }
+        },
+        toggle: false
     },
     {
         id: 30,
@@ -417,7 +446,8 @@ const data = [
         notablePlayers: {
             past: 'warren sapp',
             present: 'mike evans'
-        }
+        },
+        toggle: false
     },
     {
         id: 31,
@@ -431,7 +461,8 @@ const data = [
         notablePlayers: {
             past: 'steve mcnair',
             present: 'jeffrey simmons'
-        }
+        },
+        toggle: false
     },
     {
         id: 32,
@@ -445,7 +476,8 @@ const data = [
         notablePlayers: {
             past: 'darrell green',
             present: 'jayden daniels'
-        }
+        },
+        toggle: false
     }
 ]
 
@@ -473,14 +505,6 @@ const getTeamsByConf =(conf)=> {
     console.log(confTeams)
 }
 
-// getTeamsByConf('afc')
-// getTeamsByConf('nfc')
-
-// let afcTeams = data.filter(team => team.conference == 'afc')
-
-// console.log(afcTeams);
-
-
 /**
  * 2. write a function that takes a state as an argument and will filter through the objects and return all teams in that state
  */
@@ -488,7 +512,7 @@ const getTeamsByConf =(conf)=> {
 const getTeamsByState =(state)=> {
     let stateTeams = data.filter(team => team.state == state)
 
-    console.log(stateTeams)
+    // console.log(stateTeams)
 }
 
 getTeamsByState('florida')
@@ -507,7 +531,7 @@ const nflTeams =(arr)=> {
     //     nflTeams = [...nflTeams, `${team.location} ${team.team}`]
     // }
 
-    console.log(nflTeams)
+    // console.log(nflTeams)
 }
 
 nflTeams(data)
@@ -531,7 +555,7 @@ const getDivTeams =(conf, div)=> {
     //Imperative
     let teams = division.map(team => team.team)
 
-    console.log(teams)
+    // console.log(teams)
 }
 
 getDivTeams('afc', 'south')
@@ -568,18 +592,108 @@ const sortTeams = ()=> {
 
 sortTeams()
 
-console.log(hasNotWonASuperBowl)
-console.log(hasWonASuperBowl)
+// console.log(hasNotWonASuperBowl)
+// console.log(hasWonASuperBowl)
 
 /**
- * 6. Make a cards for each team and display it on the browser. 
+ * 6. Make a card for each team and display it on the browser. 
  * 
  * The card should display:
  *      team
  *      location
  *      city    
  *      state
+ *      conference
+ *      division
  *      super bowl wins
  * 
- * When a card is clicked, change display to notable players
+ * When a card is clicked or hovered, change display to notable players
  */
+
+const cardRow = document.getElementById('cardRow')
+
+const buildBody =(obj, bool)=> {
+
+    let body
+    if (bool) {
+        body = `
+            <h3 class="card-heading">Notable Players</h3>
+            <p class="card-text">Past: ${obj.notablePlayers.past.toUpperCase()}</p>
+            <p class="card-text">Past: ${obj.notablePlayers.present.toUpperCase()}</p>
+        `
+    } else {
+        body = `
+            <p class="card-text text-capitalize">${obj.city} ${obj.state}</p>
+            <p class="card-text text-uppercase">${obj.conference} ${obj.division}</p> 
+        `
+    }
+
+    return body
+}
+
+data.forEach(team => {
+    const column = document.createElement('div')
+    column.classList.add('col')
+
+    const card = document.createElement('div')
+    card.classList.add('card', 'h-100', 'team-cards')
+    card.setAttribute('id', team.id)
+
+    const cardHeader = document.createElement('header')
+    cardHeader.classList.add('card-header')
+
+    const teamName = document.createElement('h2')
+    teamName.classList.add('text-uppercase')
+    teamName.innerText = `${team.location} ${team.team}`
+
+    const cardBody = document.createElement('main')
+    cardBody.classList.add('card-body')
+    cardBody.setAttribute('id', team.team)
+
+
+    team.conference == 'nfc' ? card.classList.add('border-primary') : card.classList.add('border-danger')
+
+    const cardFooter = document.createElement('footer')
+    cardFooter.classList.add('card-footer')
+
+    const superBowlWins = document.createElement('p')
+    superBowlWins.classList.add('card-text', 'text-capitalize')
+    superBowlWins.innerText = `Super Bowl wins: ${team.superBowlWins}`
+
+    cardHeader.appendChild(teamName)
+    // cardBody get return from buildBody()
+    cardBody.innerHTML = buildBody(team, team.toggle)
+
+    // cardBody.appendChild(teamLocation)
+    // cardBody.appendChild(confAndDiv)
+    cardFooter.appendChild(superBowlWins)
+
+    card.appendChild(cardHeader)
+    card.appendChild(cardBody)
+    card.appendChild(cardFooter)
+
+    column.appendChild(card)
+
+    cardRow.appendChild(column)
+    
+})
+
+/*event listener on cards  */
+const teamCards = document.querySelectorAll('.team-cards')
+
+teamCards.forEach(teamCard => {
+    teamCard.addEventListener('click', ()=> {
+        // console.log('mouseover');
+        for (let team of data) {
+            if (team.id == teamCard.id) {
+                // console.log(team.team)
+                const cardBody = document.getElementById(team.team)
+                team.toggle = !team.toggle
+                console.log(team.toggle)
+
+                // change display based on team.toggle
+                cardBody.innerHTML = buildBody(team, team.toggle)
+            }
+        }
+    })
+})
